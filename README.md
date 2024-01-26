@@ -1,3 +1,11 @@
+# Important / Importante
+
+Este fork representa el trabajo de Andre0512. Este proyecto es suyo y el fork sólo existe para mostrar mi rechazo a Haier por su reciente actitud.
+Más info en este vídeo: https://youtu.be/P-kjoy1CS38
+
+This fork of hOn is part of Andre0512's repository. This project is his and the fork exists only to show my disapproval of Haier for their recent attitude.
+More info in this video: https://youtu.be/P-kjoy1CS38
+
 # Haier hOn
 [![hacs_badge](https://img.shields.io/badge/hacs-Default-41BDF5.svg)](https://hacs.xyz)
 [![GitHub](https://img.shields.io/github/license/Andre0512/hon?color=red)](https://github.com/Andre0512/hon/blob/main/LICENSE)
